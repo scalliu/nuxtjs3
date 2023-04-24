@@ -1,0 +1,1 @@
+import{a as e,i as t,b as s,o,f as n}from"./entry.393a8b12.js";const a=t({setup(){}}),c=n("h1",null,"create-user.vue",-1),r=[c];function _(p,d,i,u,f,l){return o(),s("div",null,r)}const h=e(a,[["render",_]]);export{h as default};
